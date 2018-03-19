@@ -5,7 +5,9 @@ Written using macOS but all software is cross-platform.
 ~~~
 ## Required TeX Distributions ##
 **Windows:** Use MiKTeX, tutorial found at http://miktex.org/howto/install-miktex
+
 **Mac:** Use MacTeX, tutorial found at http://www.tug.org/mactex/mactex-download.html
+
 **ECS users** do not need this as all ECS-built computers come with a TeX distribution pre-installed.
 
 ## Required Software (all free!)
