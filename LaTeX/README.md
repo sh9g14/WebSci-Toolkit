@@ -89,7 +89,7 @@ Thankfully this is a lot easier than tables as there is less customisation.
 ```latex
 \begin{figure}
   \includegraphics[scale=1]{image1.png} 
-  \caption{#image1 refers to an image in your /img/ folder in your Thesis directory}
+  \caption{#image1.png refers to an image in your /Figures/ folder in your Thesis directory}
   \label{Image1} #Refer to this in text using \ref{Image1}
 \end{figure}
 ```
